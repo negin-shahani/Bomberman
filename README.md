@@ -43,4 +43,9 @@ Reach your original to complete his life.
 To reach it, the bomb radius of its bombs will double in 40 seconds.
 If a player eats a star in a situation where the previous star's time has not expired, the radius of his bomb blast
 It doubles again, but in most cases it should never exceed 8.
+## Result:
+![1](https://user-images.githubusercontent.com/42892521/133893346-c8f72fe2-b92b-450b-a757-633d09949565.PNG)
+![2](https://user-images.githubusercontent.com/42892521/133893353-78a0f34b-0a37-4a03-af63-270289cbdbd2.PNG)
+![3](https://user-images.githubusercontent.com/42892521/133893359-bc6a403f-52c3-4895-a3c6-cbaa9297f174.PNG)
+
 
